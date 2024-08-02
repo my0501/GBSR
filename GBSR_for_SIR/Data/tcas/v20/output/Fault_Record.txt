@@ -1,0 +1,1 @@
+Line 72:   Original: upward_preferred = Inhibit_Biased_Climb() > Down_Separation;   Fault: upward_preferred = Inhibit_Biased_Climb() >= Down_Separation;

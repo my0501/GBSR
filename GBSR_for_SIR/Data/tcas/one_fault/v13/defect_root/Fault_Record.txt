@@ -1,0 +1,1 @@
+Line 124:   Original: if (enabled && ((tcas_equipped && intent_not_known) || !tcas_equipped))   Fault: if (enabled && tcas_equipped && intent_not_known || !tcas_equipped)

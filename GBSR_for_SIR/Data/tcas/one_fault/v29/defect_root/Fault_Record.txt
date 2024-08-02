@@ -1,0 +1,1 @@
+Line 63:   Original: return (Climb_Inhibit ? Up_Separation + NOZCROSS : Up_Separation);   Fault: return (Up_Separation);

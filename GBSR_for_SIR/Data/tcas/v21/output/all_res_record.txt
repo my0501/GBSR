@@ -1,0 +1,1382 @@
+line: 2 index: 4 original: -	mutated: +
+line: 2 index: 6 original: -	mutated: +
+line: 2 index: 12 original: -	mutated: +
+line: 2 index: 66 original: -	mutated: +
+line: 2 index: 68 original: -	mutated: +
+line: 2 index: 4 original: -	mutated: *
+line: 2 index: 6 original: -	mutated: *
+line: 2 index: 12 original: -	mutated: *
+line: 2 index: 66 original: -	mutated: *
+line: 2 index: 68 original: -	mutated: *
+line: 2 index: 4 original: -	mutated: /
+line: 2 index: 6 original: -	mutated: /
+line: 2 index: 12 original: -	mutated: /
+line: 2 index: 66 original: -	mutated: /
+line: 2 index: 68 original: -	mutated: /
+line: 2 index: 4 original: -	mutated: %
+line: 2 index: 6 original: -	mutated: %
+line: 2 index: 12 original: -	mutated: %
+line: 2 index: 66 original: -	mutated: %
+line: 2 index: 68 original: -	mutated: %
+line: 2 index: 1 original: *	mutated: +
+line: 2 index: 5 original: *	mutated: +
+line: 2 index: 67 original: *	mutated: +
+line: 2 index: 70 original: *	mutated: +
+line: 2 index: 1 original: *	mutated: -
+line: 2 index: 5 original: *	mutated: -
+line: 2 index: 67 original: *	mutated: -
+line: 2 index: 70 original: *	mutated: -
+line: 2 index: 1 original: *	mutated: /
+line: 2 index: 5 original: *	mutated: /
+line: 2 index: 67 original: *	mutated: /
+line: 2 index: 70 original: *	mutated: /
+line: 2 index: 1 original: *	mutated: %
+line: 2 index: 5 original: *	mutated: %
+line: 2 index: 67 original: *	mutated: %
+line: 2 index: 70 original: *	mutated: %
+line: 2 index: 0 original: /	mutated: %
+line: 2 index: 71 original: /	mutated: %
+line: 2 index: 0 original: /	mutated: *
+line: 2 index: 71 original: /	mutated: *
+line: 2 index: 0 original: /	mutated: +
+line: 2 index: 71 original: /	mutated: +
+line: 2 index: 0 original: /	mutated: -
+line: 2 index: 71 original: /	mutated: -
+line: 3 index: 1 original: *	mutated: +
+line: 3 index: 1 original: *	mutated: -
+line: 3 index: 1 original: *	mutated: /
+line: 3 index: 1 original: *	mutated: %
+line: 3 index: 0 original: /	mutated: %
+line: 3 index: 0 original: /	mutated: *
+line: 3 index: 0 original: /	mutated: +
+line: 3 index: 0 original: /	mutated: -
+line: 4 index: 1 original: *	mutated: +
+line: 4 index: 1 original: *	mutated: -
+line: 4 index: 1 original: *	mutated: /
+line: 4 index: 1 original: *	mutated: %
+line: 4 index: 21 original: /	mutated: %
+line: 4 index: 24 original: /	mutated: %
+line: 4 index: 21 original: /	mutated: *
+line: 4 index: 24 original: /	mutated: *
+line: 4 index: 21 original: /	mutated: +
+line: 4 index: 24 original: /	mutated: +
+line: 4 index: 21 original: /	mutated: -
+line: 4 index: 24 original: /	mutated: -
+line: 5 index: 52 original: -	mutated: +
+line: 5 index: 52 original: -	mutated: *
+line: 5 index: 52 original: -	mutated: /
+line: 5 index: 52 original: -	mutated: %
+line: 5 index: 1 original: *	mutated: +
+line: 5 index: 1 original: *	mutated: -
+line: 5 index: 1 original: *	mutated: /
+line: 5 index: 1 original: *	mutated: %
+line: 6 index: 1 original: *	mutated: +
+line: 6 index: 3 original: *	mutated: +
+line: 6 index: 1 original: *	mutated: -
+line: 6 index: 3 original: *	mutated: -
+line: 6 index: 1 original: *	mutated: /
+line: 6 index: 3 original: *	mutated: /
+line: 6 index: 1 original: *	mutated: %
+line: 6 index: 3 original: *	mutated: %
+line: 6 index: 4 original: /	mutated: %
+line: 6 index: 4 original: /	mutated: *
+line: 6 index: 4 original: /	mutated: +
+line: 6 index: 4 original: /	mutated: -
+line: 8 index: 9 original: <	mutated: !=
+line: 8 index: 9 original: <	mutated: >
+line: 8 index: 9 original: <	mutated: <=
+line: 8 index: 9 original: <	mutated: >=
+line: 8 index: 9 original: <	mutated: ==
+line: 8 index: 17 original: >	mutated: !=
+line: 8 index: 17 original: >	mutated: <
+line: 8 index: 17 original: >	mutated: <=
+line: 8 index: 17 original: >	mutated: >=
+line: 8 index: 17 original: >	mutated: ==
+line: 10 index: 25 original: *	mutated: +
+line: 10 index: 43 original: *	mutated: +
+line: 10 index: 25 original: *	mutated: -
+line: 10 index: 43 original: *	mutated: -
+line: 10 index: 25 original: *	mutated: /
+line: 10 index: 43 original: *	mutated: /
+line: 10 index: 25 original: *	mutated: %
+line: 10 index: 43 original: *	mutated: %
+line: 10 index: 24 original: /	mutated: %
+line: 10 index: 35 original: /	mutated: %
+line: 10 index: 44 original: /	mutated: %
+line: 10 index: 24 original: /	mutated: *
+line: 10 index: 35 original: /	mutated: *
+line: 10 index: 44 original: /	mutated: *
+line: 10 index: 24 original: /	mutated: +
+line: 10 index: 35 original: /	mutated: +
+line: 10 index: 44 original: /	mutated: +
+line: 10 index: 24 original: /	mutated: -
+line: 10 index: 35 original: /	mutated: -
+line: 10 index: 44 original: /	mutated: -
+line: 11 index: 25 original: *	mutated: +
+line: 11 index: 59 original: *	mutated: +
+line: 11 index: 25 original: *	mutated: -
+line: 11 index: 59 original: *	mutated: -
+line: 11 index: 25 original: *	mutated: /
+line: 11 index: 59 original: *	mutated: /
+line: 11 index: 25 original: *	mutated: %
+line: 11 index: 59 original: *	mutated: %
+line: 11 index: 24 original: /	mutated: %
+line: 11 index: 60 original: /	mutated: %
+line: 11 index: 24 original: /	mutated: *
+line: 11 index: 60 original: /	mutated: *
+line: 11 index: 24 original: /	mutated: +
+line: 11 index: 60 original: /	mutated: +
+line: 11 index: 24 original: /	mutated: -
+line: 11 index: 60 original: /	mutated: -
+line: 12 index: 33 original: *	mutated: +
+line: 12 index: 58 original: *	mutated: +
+line: 12 index: 33 original: *	mutated: -
+line: 12 index: 58 original: *	mutated: -
+line: 12 index: 33 original: *	mutated: /
+line: 12 index: 58 original: *	mutated: /
+line: 12 index: 33 original: *	mutated: %
+line: 12 index: 58 original: *	mutated: %
+line: 12 index: 32 original: /	mutated: %
+line: 12 index: 59 original: /	mutated: %
+line: 12 index: 32 original: /	mutated: *
+line: 12 index: 59 original: /	mutated: *
+line: 12 index: 32 original: /	mutated: +
+line: 12 index: 59 original: /	mutated: +
+line: 12 index: 32 original: /	mutated: -
+line: 12 index: 59 original: /	mutated: -
+line: 13 index: 25 original: *	mutated: +
+line: 13 index: 35 original: *	mutated: +
+line: 13 index: 25 original: *	mutated: -
+line: 13 index: 35 original: *	mutated: -
+line: 13 index: 25 original: *	mutated: /
+line: 13 index: 35 original: *	mutated: /
+line: 13 index: 25 original: *	mutated: %
+line: 13 index: 35 original: *	mutated: %
+line: 13 index: 24 original: /	mutated: %
+line: 13 index: 36 original: /	mutated: %
+line: 13 index: 24 original: /	mutated: *
+line: 13 index: 36 original: /	mutated: *
+line: 13 index: 24 original: /	mutated: +
+line: 13 index: 36 original: /	mutated: +
+line: 13 index: 24 original: /	mutated: -
+line: 13 index: 36 original: /	mutated: -
+line: 14 index: 5 original: *	mutated: +
+line: 14 index: 17 original: *	mutated: +
+line: 14 index: 5 original: *	mutated: -
+line: 14 index: 17 original: *	mutated: -
+line: 14 index: 5 original: *	mutated: /
+line: 14 index: 17 original: *	mutated: /
+line: 14 index: 5 original: *	mutated: %
+line: 14 index: 17 original: *	mutated: %
+line: 14 index: 4 original: /	mutated: %
+line: 14 index: 18 original: /	mutated: %
+line: 14 index: 4 original: /	mutated: *
+line: 14 index: 18 original: /	mutated: *
+line: 14 index: 4 original: /	mutated: +
+line: 14 index: 18 original: /	mutated: +
+line: 14 index: 4 original: /	mutated: -
+line: 14 index: 18 original: /	mutated: -
+line: 16 index: 8 original: int 	mutated: short int 
+line: 16 index: 8 original: int 	mutated: char 
+line: 18 index: 0 original: int 	mutated: short int 
+line: 18 index: 0 original: int 	mutated: char 
+line: 22 index: 0 original: int 	mutated: short int 
+line: 22 index: 0 original: int 	mutated: char 
+line: 23 index: 0 original: int 	mutated: short int 
+line: 23 index: 0 original: int 	mutated: char 
+line: 24 index: 0 original: int 	mutated: short int 
+line: 24 index: 0 original: int 	mutated: char 
+line: 26 index: 23 original: *	mutated: +
+line: 26 index: 36 original: *	mutated: +
+line: 26 index: 23 original: *	mutated: -
+line: 26 index: 36 original: *	mutated: -
+line: 26 index: 23 original: *	mutated: /
+line: 26 index: 36 original: *	mutated: /
+line: 26 index: 23 original: *	mutated: %
+line: 26 index: 36 original: *	mutated: %
+line: 26 index: 22 original: /	mutated: %
+line: 26 index: 37 original: /	mutated: %
+line: 26 index: 22 original: /	mutated: *
+line: 26 index: 37 original: /	mutated: *
+line: 26 index: 22 original: /	mutated: +
+line: 26 index: 37 original: /	mutated: +
+line: 26 index: 22 original: /	mutated: -
+line: 26 index: 37 original: /	mutated: -
+line: 26 index: 0 original: int 	mutated: short int 
+line: 26 index: 0 original: int 	mutated: char 
+line: 27 index: 26 original: [	mutated: [ -1 +
+line: 27 index: 26 original: [	mutated: [ 1 +
+line: 27 index: 26 original: [	mutated: [ 0 *
+line: 27 index: 0 original: int 	mutated: short int 
+line: 27 index: 0 original: int 	mutated: char 
+line: 29 index: 0 original: int 	mutated: short int 
+line: 29 index: 0 original: int 	mutated: char 
+line: 30 index: 0 original: int 	mutated: short int 
+line: 30 index: 0 original: int 	mutated: char 
+line: 32 index: 5 original: *	mutated: +
+line: 32 index: 23 original: *	mutated: +
+line: 32 index: 5 original: *	mutated: -
+line: 32 index: 23 original: *	mutated: -
+line: 32 index: 5 original: *	mutated: /
+line: 32 index: 23 original: *	mutated: /
+line: 32 index: 5 original: *	mutated: %
+line: 32 index: 23 original: *	mutated: %
+line: 32 index: 4 original: /	mutated: %
+line: 32 index: 24 original: /	mutated: %
+line: 32 index: 4 original: /	mutated: *
+line: 32 index: 24 original: /	mutated: *
+line: 32 index: 4 original: /	mutated: +
+line: 32 index: 24 original: /	mutated: +
+line: 32 index: 4 original: /	mutated: -
+line: 32 index: 24 original: /	mutated: -
+line: 33 index: 18 original: *	mutated: +
+line: 33 index: 60 original: *	mutated: +
+line: 33 index: 18 original: *	mutated: -
+line: 33 index: 60 original: *	mutated: -
+line: 33 index: 18 original: *	mutated: /
+line: 33 index: 60 original: *	mutated: /
+line: 33 index: 18 original: *	mutated: %
+line: 33 index: 60 original: *	mutated: %
+line: 33 index: 17 original: /	mutated: %
+line: 33 index: 61 original: /	mutated: %
+line: 33 index: 17 original: /	mutated: *
+line: 33 index: 61 original: /	mutated: *
+line: 33 index: 17 original: /	mutated: +
+line: 33 index: 61 original: /	mutated: +
+line: 33 index: 17 original: /	mutated: -
+line: 33 index: 61 original: /	mutated: -
+line: 33 index: 0 original: int 	mutated: short int 
+line: 33 index: 0 original: int 	mutated: char 
+line: 38 index: 24 original: *	mutated: +
+line: 38 index: 41 original: *	mutated: +
+line: 38 index: 24 original: *	mutated: -
+line: 38 index: 41 original: *	mutated: -
+line: 38 index: 24 original: *	mutated: /
+line: 38 index: 41 original: *	mutated: /
+line: 38 index: 24 original: *	mutated: %
+line: 38 index: 41 original: *	mutated: %
+line: 38 index: 23 original: /	mutated: %
+line: 38 index: 42 original: /	mutated: %
+line: 38 index: 23 original: /	mutated: *
+line: 38 index: 42 original: /	mutated: *
+line: 38 index: 23 original: /	mutated: +
+line: 38 index: 42 original: /	mutated: +
+line: 38 index: 23 original: /	mutated: -
+line: 38 index: 42 original: /	mutated: -
+line: 38 index: 0 original: int 	mutated: short int 
+line: 38 index: 0 original: int 	mutated: char 
+line: 42 index: 21 original: *	mutated: +
+line: 42 index: 34 original: *	mutated: +
+line: 42 index: 21 original: *	mutated: -
+line: 42 index: 34 original: *	mutated: -
+line: 42 index: 21 original: *	mutated: /
+line: 42 index: 34 original: *	mutated: /
+line: 42 index: 21 original: *	mutated: %
+line: 42 index: 34 original: *	mutated: %
+line: 42 index: 20 original: /	mutated: %
+line: 42 index: 27 original: /	mutated: %
+line: 42 index: 35 original: /	mutated: %
+line: 42 index: 20 original: /	mutated: *
+line: 42 index: 27 original: /	mutated: *
+line: 42 index: 35 original: /	mutated: *
+line: 42 index: 20 original: /	mutated: +
+line: 42 index: 27 original: /	mutated: +
+line: 42 index: 35 original: /	mutated: +
+line: 42 index: 20 original: /	mutated: -
+line: 42 index: 27 original: /	mutated: -
+line: 42 index: 35 original: /	mutated: -
+line: 42 index: 23 original: true	mutated: false
+line: 42 index: 28 original: false	mutated: true
+line: 42 index: 0 original: int 	mutated: short int 
+line: 42 index: 0 original: int 	mutated: char 
+line: 48 index: 15 original: (	mutated: (!
+line: 50 index: 30 original: =	mutated: ==
+line: 50 index: 30 original: =	mutated: !=
+line: 50 index: 30 original: =	mutated: <
+line: 50 index: 30 original: =	mutated: >
+line: 50 index: 30 original: =	mutated: <=
+line: 50 index: 30 original: =	mutated: >=
+line: 50 index: 30 original: =	mutated: = 0 *
+line: 50 index: 30 original: =	mutated: = 0 ;//
+line: 50 index: 30 original: =	mutated: = NULL; //
+line: 50 index: 30 original: =	mutated: = !
+line: 50 index: 26 original: [	mutated: [ -1 +
+line: 50 index: 26 original: [	mutated: [ 1 +
+line: 50 index: 26 original: [	mutated: [ 0 *
+line: 51 index: 30 original: =	mutated: ==
+line: 51 index: 30 original: =	mutated: !=
+line: 51 index: 30 original: =	mutated: <
+line: 51 index: 30 original: =	mutated: >
+line: 51 index: 30 original: =	mutated: <=
+line: 51 index: 30 original: =	mutated: >=
+line: 51 index: 30 original: =	mutated: = 0 *
+line: 51 index: 30 original: =	mutated: = 0 ;//
+line: 51 index: 30 original: =	mutated: = NULL; //
+line: 51 index: 30 original: =	mutated: = !
+line: 51 index: 26 original: [	mutated: [ -1 +
+line: 51 index: 26 original: [	mutated: [ 1 +
+line: 51 index: 26 original: [	mutated: [ 0 *
+line: 52 index: 30 original: =	mutated: ==
+line: 52 index: 30 original: =	mutated: !=
+line: 52 index: 30 original: =	mutated: <
+line: 52 index: 30 original: =	mutated: >
+line: 52 index: 30 original: =	mutated: <=
+line: 52 index: 30 original: =	mutated: >=
+line: 52 index: 30 original: =	mutated: = 0 *
+line: 52 index: 30 original: =	mutated: = 0 ;//
+line: 52 index: 30 original: =	mutated: = NULL; //
+line: 52 index: 30 original: =	mutated: = !
+line: 52 index: 26 original: [	mutated: [ -1 +
+line: 52 index: 26 original: [	mutated: [ 1 +
+line: 52 index: 26 original: [	mutated: [ 0 *
+line: 53 index: 30 original: =	mutated: ==
+line: 53 index: 30 original: =	mutated: !=
+line: 53 index: 30 original: =	mutated: <
+line: 53 index: 30 original: =	mutated: >
+line: 53 index: 30 original: =	mutated: <=
+line: 53 index: 30 original: =	mutated: >=
+line: 53 index: 30 original: =	mutated: = 0 *
+line: 53 index: 30 original: =	mutated: = 0 ;//
+line: 53 index: 30 original: =	mutated: = NULL; //
+line: 53 index: 30 original: =	mutated: = !
+line: 53 index: 26 original: [	mutated: [ -1 +
+line: 53 index: 26 original: [	mutated: [ 1 +
+line: 53 index: 26 original: [	mutated: [ 0 *
+line: 56 index: 9 original: (	mutated: (!
+line: 56 index: 0 original: int 	mutated: short int 
+line: 56 index: 0 original: int 	mutated: char 
+line: 58 index: 1 original: return	mutated: return 0; //
+line: 58 index: 1 original: return	mutated: return 1; //
+line: 58 index: 1 original: return	mutated: return NULL; //
+line: 58 index: 1 original: return	mutated: return -1; //
+line: 58 index: 1 original: return	mutated: return 2*
+line: 58 index: 1 original: return	mutated: return -1 *
+line: 58 index: 30 original: [	mutated: [ -1 +
+line: 58 index: 30 original: [	mutated: [ 1 +
+line: 58 index: 30 original: [	mutated: [ 0 *
+line: 61 index: 25 original: (	mutated: (!
+line: 61 index: 0 original: int 	mutated: short int 
+line: 61 index: 0 original: int 	mutated: char 
+line: 63 index: 42 original: +	mutated: -
+line: 63 index: 42 original: +	mutated: *
+line: 63 index: 42 original: +	mutated: /
+line: 63 index: 42 original: +	mutated: %
+line: 63 index: 4 original: return	mutated: return 0; //
+line: 63 index: 4 original: return	mutated: return 1; //
+line: 63 index: 4 original: return	mutated: return NULL; //
+line: 63 index: 4 original: return	mutated: return -1; //
+line: 63 index: 4 original: return	mutated: return 2*
+line: 63 index: 4 original: return	mutated: return -1 *
+line: 63 index: 11 original: (	mutated: (!
+line: 63 index: 68 original: );	mutated: *0);
+line: 63 index: 68 original: );	mutated: *-1);
+line: 63 index: 68 original: );	mutated: *2);
+line: 63 index: 25 original:  ? 	mutated:  && false ? 
+line: 63 index: 25 original:  ? 	mutated:  || true ? 
+line: 66 index: 30 original: (	mutated: (!
+line: 68 index: 4 original: int 	mutated: short int 
+line: 68 index: 4 original: int 	mutated: char 
+line: 69 index: 4 original: int 	mutated: short int 
+line: 69 index: 4 original: int 	mutated: char 
+line: 72 index: 50 original: >	mutated: !=
+line: 72 index: 50 original: >	mutated: <
+line: 72 index: 50 original: >	mutated: <=
+line: 72 index: 50 original: >	mutated: >=
+line: 72 index: 50 original: >	mutated: ==
+line: 72 index: 21 original: =	mutated: ==
+line: 72 index: 21 original: =	mutated: !=
+line: 72 index: 21 original: =	mutated: <
+line: 72 index: 21 original: =	mutated: >
+line: 72 index: 21 original: =	mutated: <=
+line: 72 index: 21 original: =	mutated: >=
+line: 72 index: 21 original: =	mutated: = 0 *
+line: 72 index: 21 original: =	mutated: = 0 ;//
+line: 72 index: 21 original: =	mutated: = NULL; //
+line: 72 index: 21 original: =	mutated: = !
+line: 72 index: 38 original: +	mutated: -
+line: 72 index: 38 original: +	mutated: *
+line: 72 index: 38 original: +	mutated: /
+line: 72 index: 38 original: +	mutated: %
+line: 72 index: 23 original: (	mutated: (!
+line: 73 index: 4 original: if (	mutated: if ( !
+line: 73 index: 4 original: if (	mutated: if ( ~
+line: 73 index: 4 original: if (	mutated: if ( true ||
+line: 73 index: 4 original: if (	mutated: if ( false &&
+line: 73 index: 7 original: (	mutated: (!
+line: 75 index: 79 original: >	mutated: !=
+line: 75 index: 79 original: >	mutated: <
+line: 75 index: 79 original: >	mutated: <=
+line: 75 index: 79 original: >	mutated: >=
+line: 75 index: 79 original: >	mutated: ==
+line: 75 index: 79 original: >=	mutated: !=
+line: 75 index: 79 original: >=	mutated: <
+line: 75 index: 79 original: >=	mutated: <=
+line: 75 index: 79 original: >=	mutated: >
+line: 75 index: 79 original: >=	mutated: ==
+line: 75 index: 8 original: =	mutated: ==
+line: 75 index: 80 original: =	mutated: ==
+line: 75 index: 8 original: =	mutated: !=
+line: 75 index: 80 original: =	mutated: !=
+line: 75 index: 8 original: =	mutated: <
+line: 75 index: 80 original: =	mutated: <
+line: 75 index: 8 original: =	mutated: >
+line: 75 index: 80 original: =	mutated: >
+line: 75 index: 8 original: =	mutated: <=
+line: 75 index: 80 original: =	mutated: <=
+line: 75 index: 8 original: =	mutated: >=
+line: 75 index: 80 original: =	mutated: >=
+line: 75 index: 8 original: =	mutated: = 0 *
+line: 75 index: 80 original: =	mutated: = 0 *
+line: 75 index: 8 original: =	mutated: = 0 ;//
+line: 75 index: 80 original: =	mutated: = 0 ;//
+line: 75 index: 8 original: =	mutated: = NULL; //
+line: 75 index: 80 original: =	mutated: = NULL; //
+line: 75 index: 8 original: =	mutated: = !
+line: 75 index: 80 original: =	mutated: = !
+line: 75 index: 57 original: &	mutated: |
+line: 75 index: 58 original: &	mutated: |
+line: 75 index: 57 original: &	mutated: ^
+line: 75 index: 58 original: &	mutated: ^
+line: 75 index: 57 original: &	mutated: &&
+line: 75 index: 58 original: &	mutated: &&
+line: 75 index: 57 original: &	mutated: ||
+line: 75 index: 58 original: &	mutated: ||
+line: 75 index: 32 original: |	mutated: &
+line: 75 index: 33 original: |	mutated: &
+line: 75 index: 32 original: |	mutated: ^
+line: 75 index: 33 original: |	mutated: ^
+line: 75 index: 32 original: |	mutated: &&
+line: 75 index: 33 original: |	mutated: &&
+line: 75 index: 32 original: |	mutated: ||
+line: 75 index: 33 original: |	mutated: ||
+line: 75 index: 10 original: !	mutated: ~
+line: 75 index: 61 original: !	mutated: ~
+line: 75 index: 10 original: !	mutated: 
+line: 75 index: 61 original: !	mutated: 
+line: 75 index: 57 original: &&	mutated: &
+line: 75 index: 57 original: &&	mutated: ||
+line: 75 index: 57 original: &&	mutated: && !
+line: 75 index: 32 original: ||	mutated: |
+line: 75 index: 32 original: ||	mutated: &&
+line: 75 index: 32 original: ||	mutated: || !
+line: 75 index: 11 original: (	mutated: (!
+line: 75 index: 28 original: (	mutated: (!
+line: 75 index: 35 original: (	mutated: (!
+line: 75 index: 36 original: (	mutated: (!
+line: 75 index: 53 original: (	mutated: (!
+line: 75 index: 60 original: (	mutated: (!
+line: 75 index: 62 original: (	mutated: (!
+line: 75 index: 86 original: (	mutated: (!
+line: 75 index: 90 original: );	mutated: *0);
+line: 75 index: 90 original: );	mutated: *-1);
+line: 75 index: 90 original: );	mutated: *2);
+line: 79 index: 50 original: >	mutated: !=
+line: 79 index: 79 original: >	mutated: !=
+line: 79 index: 50 original: >	mutated: <
+line: 79 index: 79 original: >	mutated: <
+line: 79 index: 50 original: >	mutated: <=
+line: 79 index: 79 original: >	mutated: <=
+line: 79 index: 50 original: >	mutated: >=
+line: 79 index: 79 original: >	mutated: >=
+line: 79 index: 50 original: >	mutated: ==
+line: 79 index: 79 original: >	mutated: ==
+line: 79 index: 50 original: >=	mutated: !=
+line: 79 index: 79 original: >=	mutated: !=
+line: 79 index: 50 original: >=	mutated: <
+line: 79 index: 79 original: >=	mutated: <
+line: 79 index: 50 original: >=	mutated: <=
+line: 79 index: 79 original: >=	mutated: <=
+line: 79 index: 50 original: >=	mutated: >
+line: 79 index: 79 original: >=	mutated: >
+line: 79 index: 50 original: >=	mutated: ==
+line: 79 index: 79 original: >=	mutated: ==
+line: 79 index: 8 original: =	mutated: ==
+line: 79 index: 51 original: =	mutated: ==
+line: 79 index: 80 original: =	mutated: ==
+line: 79 index: 8 original: =	mutated: !=
+line: 79 index: 51 original: =	mutated: !=
+line: 79 index: 80 original: =	mutated: !=
+line: 79 index: 8 original: =	mutated: <
+line: 79 index: 51 original: =	mutated: <
+line: 79 index: 80 original: =	mutated: <
+line: 79 index: 8 original: =	mutated: >
+line: 79 index: 51 original: =	mutated: >
+line: 79 index: 80 original: =	mutated: >
+line: 79 index: 8 original: =	mutated: <=
+line: 79 index: 51 original: =	mutated: <=
+line: 79 index: 80 original: =	mutated: <=
+line: 79 index: 8 original: =	mutated: >=
+line: 79 index: 51 original: =	mutated: >=
+line: 79 index: 80 original: =	mutated: >=
+line: 79 index: 8 original: =	mutated: = 0 *
+line: 79 index: 51 original: =	mutated: = 0 *
+line: 79 index: 80 original: =	mutated: = 0 *
+line: 79 index: 8 original: =	mutated: = 0 ;//
+line: 79 index: 51 original: =	mutated: = 0 ;//
+line: 79 index: 80 original: =	mutated: = 0 ;//
+line: 79 index: 8 original: =	mutated: = NULL; //
+line: 79 index: 51 original: =	mutated: = NULL; //
+line: 79 index: 80 original: =	mutated: = NULL; //
+line: 79 index: 8 original: =	mutated: = !
+line: 79 index: 51 original: =	mutated: = !
+line: 79 index: 80 original: =	mutated: = !
+line: 79 index: 29 original: &	mutated: |
+line: 79 index: 30 original: &	mutated: |
+line: 79 index: 61 original: &	mutated: |
+line: 79 index: 62 original: &	mutated: |
+line: 79 index: 29 original: &	mutated: ^
+line: 79 index: 30 original: &	mutated: ^
+line: 79 index: 61 original: &	mutated: ^
+line: 79 index: 62 original: &	mutated: ^
+line: 79 index: 29 original: &	mutated: &&
+line: 79 index: 30 original: &	mutated: &&
+line: 79 index: 61 original: &	mutated: &&
+line: 79 index: 62 original: &	mutated: &&
+line: 79 index: 29 original: &	mutated: ||
+line: 79 index: 30 original: &	mutated: ||
+line: 79 index: 61 original: &	mutated: ||
+line: 79 index: 62 original: &	mutated: ||
+line: 79 index: 29 original: &&	mutated: &
+line: 79 index: 61 original: &&	mutated: &
+line: 79 index: 29 original: &&	mutated: ||
+line: 79 index: 61 original: &&	mutated: ||
+line: 79 index: 29 original: &&	mutated: && !
+line: 79 index: 61 original: &&	mutated: && !
+line: 79 index: 26 original: (	mutated: (!
+line: 79 index: 32 original: (	mutated: (!
+line: 79 index: 64 original: (	mutated: (!
+line: 79 index: 86 original: (	mutated: (!
+line: 79 index: 88 original: );	mutated: *0);
+line: 79 index: 88 original: );	mutated: *-1);
+line: 79 index: 88 original: );	mutated: *2);
+line: 81 index: 4 original: return	mutated: return 0; //
+line: 81 index: 4 original: return	mutated: return 1; //
+line: 81 index: 4 original: return	mutated: return NULL; //
+line: 81 index: 4 original: return	mutated: return -1; //
+line: 81 index: 4 original: return	mutated: return 2*
+line: 81 index: 4 original: return	mutated: return -1 *
+line: 84 index: 32 original: (	mutated: (!
+line: 86 index: 4 original: int 	mutated: short int 
+line: 86 index: 4 original: int 	mutated: char 
+line: 87 index: 4 original: int 	mutated: short int 
+line: 87 index: 4 original: int 	mutated: char 
+line: 90 index: 46 original: >	mutated: !=
+line: 90 index: 46 original: >	mutated: <
+line: 90 index: 46 original: >	mutated: <=
+line: 90 index: 46 original: >	mutated: >=
+line: 90 index: 46 original: >	mutated: ==
+line: 90 index: 21 original: =	mutated: ==
+line: 90 index: 21 original: =	mutated: !=
+line: 90 index: 21 original: =	mutated: <
+line: 90 index: 21 original: =	mutated: >
+line: 90 index: 21 original: =	mutated: <=
+line: 90 index: 21 original: =	mutated: >=
+line: 90 index: 21 original: =	mutated: = 0 *
+line: 90 index: 21 original: =	mutated: = 0 ;//
+line: 90 index: 21 original: =	mutated: = NULL; //
+line: 90 index: 21 original: =	mutated: = !
+line: 90 index: 43 original: (	mutated: (!
+line: 91 index: 4 original: if (	mutated: if ( !
+line: 91 index: 4 original: if (	mutated: if ( ~
+line: 91 index: 4 original: if (	mutated: if ( true ||
+line: 91 index: 4 original: if (	mutated: if ( false &&
+line: 91 index: 7 original: (	mutated: (!
+line: 93 index: 50 original: >	mutated: !=
+line: 93 index: 81 original: >	mutated: !=
+line: 93 index: 50 original: >	mutated: <
+line: 93 index: 81 original: >	mutated: <
+line: 93 index: 50 original: >	mutated: <=
+line: 93 index: 81 original: >	mutated: <=
+line: 93 index: 50 original: >	mutated: >=
+line: 93 index: 81 original: >	mutated: >=
+line: 93 index: 50 original: >	mutated: ==
+line: 93 index: 81 original: >	mutated: ==
+line: 93 index: 50 original: >=	mutated: !=
+line: 93 index: 81 original: >=	mutated: !=
+line: 93 index: 50 original: >=	mutated: <
+line: 93 index: 81 original: >=	mutated: <
+line: 93 index: 50 original: >=	mutated: <=
+line: 93 index: 81 original: >=	mutated: <=
+line: 93 index: 50 original: >=	mutated: >
+line: 93 index: 81 original: >=	mutated: >
+line: 93 index: 50 original: >=	mutated: ==
+line: 93 index: 81 original: >=	mutated: ==
+line: 93 index: 8 original: =	mutated: ==
+line: 93 index: 51 original: =	mutated: ==
+line: 93 index: 82 original: =	mutated: ==
+line: 93 index: 8 original: =	mutated: !=
+line: 93 index: 51 original: =	mutated: !=
+line: 93 index: 82 original: =	mutated: !=
+line: 93 index: 8 original: =	mutated: <
+line: 93 index: 51 original: =	mutated: <
+line: 93 index: 82 original: =	mutated: <
+line: 93 index: 8 original: =	mutated: >
+line: 93 index: 51 original: =	mutated: >
+line: 93 index: 82 original: =	mutated: >
+line: 93 index: 8 original: =	mutated: <=
+line: 93 index: 51 original: =	mutated: <=
+line: 93 index: 82 original: =	mutated: <=
+line: 93 index: 8 original: =	mutated: >=
+line: 93 index: 51 original: =	mutated: >=
+line: 93 index: 82 original: =	mutated: >=
+line: 93 index: 8 original: =	mutated: = 0 *
+line: 93 index: 51 original: =	mutated: = 0 *
+line: 93 index: 82 original: =	mutated: = 0 *
+line: 93 index: 8 original: =	mutated: = 0 ;//
+line: 93 index: 51 original: =	mutated: = 0 ;//
+line: 93 index: 82 original: =	mutated: = 0 ;//
+line: 93 index: 8 original: =	mutated: = NULL; //
+line: 93 index: 51 original: =	mutated: = NULL; //
+line: 93 index: 82 original: =	mutated: = NULL; //
+line: 93 index: 8 original: =	mutated: = !
+line: 93 index: 51 original: =	mutated: = !
+line: 93 index: 82 original: =	mutated: = !
+line: 93 index: 29 original: &	mutated: |
+line: 93 index: 30 original: &	mutated: |
+line: 93 index: 61 original: &	mutated: |
+line: 93 index: 62 original: &	mutated: |
+line: 93 index: 29 original: &	mutated: ^
+line: 93 index: 30 original: &	mutated: ^
+line: 93 index: 61 original: &	mutated: ^
+line: 93 index: 62 original: &	mutated: ^
+line: 93 index: 29 original: &	mutated: &&
+line: 93 index: 30 original: &	mutated: &&
+line: 93 index: 61 original: &	mutated: &&
+line: 93 index: 62 original: &	mutated: &&
+line: 93 index: 29 original: &	mutated: ||
+line: 93 index: 30 original: &	mutated: ||
+line: 93 index: 61 original: &	mutated: ||
+line: 93 index: 62 original: &	mutated: ||
+line: 93 index: 29 original: &&	mutated: &
+line: 93 index: 61 original: &&	mutated: &
+line: 93 index: 29 original: &&	mutated: ||
+line: 93 index: 61 original: &&	mutated: ||
+line: 93 index: 29 original: &&	mutated: && !
+line: 93 index: 61 original: &&	mutated: && !
+line: 93 index: 26 original: (	mutated: (!
+line: 93 index: 32 original: (	mutated: (!
+line: 93 index: 64 original: (	mutated: (!
+line: 93 index: 88 original: (	mutated: (!
+line: 93 index: 90 original: );	mutated: *0);
+line: 93 index: 90 original: );	mutated: *-1);
+line: 93 index: 90 original: );	mutated: *2);
+line: 97 index: 75 original: >	mutated: !=
+line: 97 index: 75 original: >	mutated: <
+line: 97 index: 75 original: >	mutated: <=
+line: 97 index: 75 original: >	mutated: >=
+line: 97 index: 75 original: >	mutated: ==
+line: 97 index: 75 original: >=	mutated: !=
+line: 97 index: 75 original: >=	mutated: <
+line: 97 index: 75 original: >=	mutated: <=
+line: 97 index: 75 original: >=	mutated: >
+line: 97 index: 75 original: >=	mutated: ==
+line: 97 index: 8 original: =	mutated: ==
+line: 97 index: 76 original: =	mutated: ==
+line: 97 index: 8 original: =	mutated: !=
+line: 97 index: 76 original: =	mutated: !=
+line: 97 index: 8 original: =	mutated: <
+line: 97 index: 76 original: =	mutated: <
+line: 97 index: 8 original: =	mutated: >
+line: 97 index: 76 original: =	mutated: >
+line: 97 index: 8 original: =	mutated: <=
+line: 97 index: 76 original: =	mutated: <=
+line: 97 index: 8 original: =	mutated: >=
+line: 97 index: 76 original: =	mutated: >=
+line: 97 index: 8 original: =	mutated: = 0 *
+line: 97 index: 76 original: =	mutated: = 0 *
+line: 97 index: 8 original: =	mutated: = 0 ;//
+line: 97 index: 76 original: =	mutated: = 0 ;//
+line: 97 index: 8 original: =	mutated: = NULL; //
+line: 97 index: 76 original: =	mutated: = NULL; //
+line: 97 index: 8 original: =	mutated: = !
+line: 97 index: 76 original: =	mutated: = !
+line: 97 index: 57 original: &	mutated: |
+line: 97 index: 58 original: &	mutated: |
+line: 97 index: 57 original: &	mutated: ^
+line: 97 index: 58 original: &	mutated: ^
+line: 97 index: 57 original: &	mutated: &&
+line: 97 index: 58 original: &	mutated: &&
+line: 97 index: 57 original: &	mutated: ||
+line: 97 index: 58 original: &	mutated: ||
+line: 97 index: 32 original: |	mutated: &
+line: 97 index: 33 original: |	mutated: &
+line: 97 index: 32 original: |	mutated: ^
+line: 97 index: 33 original: |	mutated: ^
+line: 97 index: 32 original: |	mutated: &&
+line: 97 index: 33 original: |	mutated: &&
+line: 97 index: 32 original: |	mutated: ||
+line: 97 index: 33 original: |	mutated: ||
+line: 97 index: 10 original: !	mutated: ~
+line: 97 index: 10 original: !	mutated: 
+line: 97 index: 57 original: &&	mutated: &
+line: 97 index: 57 original: &&	mutated: ||
+line: 97 index: 57 original: &&	mutated: && !
+line: 97 index: 32 original: ||	mutated: |
+line: 97 index: 32 original: ||	mutated: &&
+line: 97 index: 32 original: ||	mutated: || !
+line: 97 index: 11 original: (	mutated: (!
+line: 97 index: 28 original: (	mutated: (!
+line: 97 index: 35 original: (	mutated: (!
+line: 97 index: 36 original: (	mutated: (!
+line: 97 index: 53 original: (	mutated: (!
+line: 97 index: 60 original: (	mutated: (!
+line: 97 index: 82 original: (	mutated: (!
+line: 97 index: 85 original: );	mutated: *0);
+line: 97 index: 85 original: );	mutated: *-1);
+line: 97 index: 85 original: );	mutated: *2);
+line: 99 index: 4 original: return	mutated: return 0; //
+line: 99 index: 4 original: return	mutated: return 1; //
+line: 99 index: 4 original: return	mutated: return NULL; //
+line: 99 index: 4 original: return	mutated: return -1; //
+line: 99 index: 4 original: return	mutated: return 2*
+line: 99 index: 4 original: return	mutated: return -1 *
+line: 102 index: 21 original: (	mutated: (!
+line: 104 index: 28 original: <	mutated: !=
+line: 104 index: 28 original: <	mutated: >
+line: 104 index: 28 original: <	mutated: <=
+line: 104 index: 28 original: <	mutated: >=
+line: 104 index: 28 original: <	mutated: ==
+line: 104 index: 4 original: return	mutated: return 0; //
+line: 104 index: 4 original: return	mutated: return 1; //
+line: 104 index: 4 original: return	mutated: return NULL; //
+line: 104 index: 4 original: return	mutated: return -1; //
+line: 104 index: 4 original: return	mutated: return 2*
+line: 104 index: 4 original: return	mutated: return -1 *
+line: 104 index: 11 original: (	mutated: (!
+line: 104 index: 47 original: );	mutated: *0);
+line: 104 index: 47 original: );	mutated: *-1);
+line: 104 index: 47 original: );	mutated: *2);
+line: 107 index: 21 original: (	mutated: (!
+line: 109 index: 30 original: <	mutated: !=
+line: 109 index: 30 original: <	mutated: >
+line: 109 index: 30 original: <	mutated: <=
+line: 109 index: 30 original: <	mutated: >=
+line: 109 index: 30 original: <	mutated: ==
+line: 109 index: 4 original: return	mutated: return 0; //
+line: 109 index: 4 original: return	mutated: return 1; //
+line: 109 index: 4 original: return	mutated: return NULL; //
+line: 109 index: 4 original: return	mutated: return -1; //
+line: 109 index: 4 original: return	mutated: return 2*
+line: 109 index: 4 original: return	mutated: return -1 *
+line: 109 index: 11 original: (	mutated: (!
+line: 109 index: 47 original: );	mutated: *0);
+line: 109 index: 47 original: );	mutated: *-1);
+line: 109 index: 47 original: );	mutated: *2);
+line: 112 index: 16 original: (	mutated: (!
+line: 112 index: 0 original: int 	mutated: short int 
+line: 112 index: 0 original: int 	mutated: char 
+line: 116 index: 4 original: int 	mutated: short int 
+line: 116 index: 4 original: int 	mutated: char 
+line: 118 index: 55 original: <	mutated: !=
+line: 118 index: 55 original: <	mutated: >
+line: 118 index: 55 original: <	mutated: <=
+line: 118 index: 55 original: <	mutated: >=
+line: 118 index: 55 original: <	mutated: ==
+line: 118 index: 85 original: >	mutated: !=
+line: 118 index: 85 original: >	mutated: <
+line: 118 index: 85 original: >	mutated: <=
+line: 118 index: 85 original: >	mutated: >=
+line: 118 index: 85 original: >	mutated: ==
+line: 118 index: 55 original: <=	mutated: !=
+line: 118 index: 55 original: <=	mutated: <
+line: 118 index: 55 original: <=	mutated: >
+line: 118 index: 55 original: <=	mutated: >=
+line: 118 index: 55 original: <=	mutated: ==
+line: 118 index: 12 original: =	mutated: ==
+line: 118 index: 56 original: =	mutated: ==
+line: 118 index: 12 original: =	mutated: !=
+line: 118 index: 56 original: =	mutated: !=
+line: 118 index: 12 original: =	mutated: <
+line: 118 index: 56 original: =	mutated: <
+line: 118 index: 12 original: =	mutated: >
+line: 118 index: 56 original: =	mutated: >
+line: 118 index: 12 original: =	mutated: <=
+line: 118 index: 56 original: =	mutated: <=
+line: 118 index: 12 original: =	mutated: >=
+line: 118 index: 56 original: =	mutated: >=
+line: 118 index: 12 original: =	mutated: = 0 *
+line: 118 index: 56 original: =	mutated: = 0 *
+line: 118 index: 12 original: =	mutated: = 0 ;//
+line: 118 index: 56 original: =	mutated: = 0 ;//
+line: 118 index: 12 original: =	mutated: = NULL; //
+line: 118 index: 56 original: =	mutated: = NULL; //
+line: 118 index: 12 original: =	mutated: = !
+line: 118 index: 56 original: =	mutated: = !
+line: 118 index: 30 original: &	mutated: |
+line: 118 index: 31 original: &	mutated: |
+line: 118 index: 64 original: &	mutated: |
+line: 118 index: 65 original: &	mutated: |
+line: 118 index: 30 original: &	mutated: ^
+line: 118 index: 31 original: &	mutated: ^
+line: 118 index: 64 original: &	mutated: ^
+line: 118 index: 65 original: &	mutated: ^
+line: 118 index: 30 original: &	mutated: &&
+line: 118 index: 31 original: &	mutated: &&
+line: 118 index: 64 original: &	mutated: &&
+line: 118 index: 65 original: &	mutated: &&
+line: 118 index: 30 original: &	mutated: ||
+line: 118 index: 31 original: &	mutated: ||
+line: 118 index: 64 original: &	mutated: ||
+line: 118 index: 65 original: &	mutated: ||
+line: 118 index: 30 original: &&	mutated: &
+line: 118 index: 64 original: &&	mutated: &
+line: 118 index: 30 original: &&	mutated: ||
+line: 118 index: 64 original: &&	mutated: ||
+line: 118 index: 30 original: &&	mutated: && !
+line: 118 index: 64 original: &&	mutated: && !
+line: 118 index: 33 original: (	mutated: (!
+line: 118 index: 67 original: (	mutated: (!
+line: 118 index: 97 original: );	mutated: *0);
+line: 118 index: 97 original: );	mutated: *-1);
+line: 118 index: 97 original: );	mutated: *2);
+line: 119 index: 37 original: ==	mutated: !=
+line: 119 index: 37 original: ==	mutated: =
+line: 119 index: 37 original: ==	mutated: <
+line: 119 index: 37 original: ==	mutated: >
+line: 119 index: 37 original: ==	mutated: <=
+line: 119 index: 37 original: ==	mutated: >=
+line: 119 index: 18 original: =	mutated: ==
+line: 119 index: 37 original: =	mutated: ==
+line: 119 index: 38 original: =	mutated: ==
+line: 119 index: 18 original: =	mutated: !=
+line: 119 index: 37 original: =	mutated: !=
+line: 119 index: 38 original: =	mutated: !=
+line: 119 index: 18 original: =	mutated: <
+line: 119 index: 37 original: =	mutated: <
+line: 119 index: 38 original: =	mutated: <
+line: 119 index: 18 original: =	mutated: >
+line: 119 index: 37 original: =	mutated: >
+line: 119 index: 38 original: =	mutated: >
+line: 119 index: 18 original: =	mutated: <=
+line: 119 index: 37 original: =	mutated: <=
+line: 119 index: 38 original: =	mutated: <=
+line: 119 index: 18 original: =	mutated: >=
+line: 119 index: 37 original: =	mutated: >=
+line: 119 index: 38 original: =	mutated: >=
+line: 119 index: 18 original: =	mutated: = 0 *
+line: 119 index: 37 original: =	mutated: = 0 *
+line: 119 index: 38 original: =	mutated: = 0 *
+line: 119 index: 18 original: =	mutated: = 0 ;//
+line: 119 index: 37 original: =	mutated: = 0 ;//
+line: 119 index: 38 original: =	mutated: = 0 ;//
+line: 119 index: 18 original: =	mutated: = NULL; //
+line: 119 index: 37 original: =	mutated: = NULL; //
+line: 119 index: 38 original: =	mutated: = NULL; //
+line: 119 index: 18 original: =	mutated: = !
+line: 119 index: 37 original: =	mutated: = !
+line: 119 index: 38 original: =	mutated: = !
+line: 120 index: 63 original: ==	mutated: !=
+line: 120 index: 63 original: ==	mutated: =
+line: 120 index: 63 original: ==	mutated: <
+line: 120 index: 63 original: ==	mutated: >
+line: 120 index: 63 original: ==	mutated: <=
+line: 120 index: 63 original: ==	mutated: >=
+line: 120 index: 21 original: =	mutated: ==
+line: 120 index: 63 original: =	mutated: ==
+line: 120 index: 64 original: =	mutated: ==
+line: 120 index: 21 original: =	mutated: !=
+line: 120 index: 63 original: =	mutated: !=
+line: 120 index: 64 original: =	mutated: !=
+line: 120 index: 21 original: =	mutated: <
+line: 120 index: 63 original: =	mutated: <
+line: 120 index: 64 original: =	mutated: <
+line: 120 index: 21 original: =	mutated: >
+line: 120 index: 63 original: =	mutated: >
+line: 120 index: 64 original: =	mutated: >
+line: 120 index: 21 original: =	mutated: <=
+line: 120 index: 63 original: =	mutated: <=
+line: 120 index: 64 original: =	mutated: <=
+line: 120 index: 21 original: =	mutated: >=
+line: 120 index: 63 original: =	mutated: >=
+line: 120 index: 64 original: =	mutated: >=
+line: 120 index: 21 original: =	mutated: = 0 *
+line: 120 index: 63 original: =	mutated: = 0 *
+line: 120 index: 64 original: =	mutated: = 0 *
+line: 120 index: 21 original: =	mutated: = 0 ;//
+line: 120 index: 63 original: =	mutated: = 0 ;//
+line: 120 index: 64 original: =	mutated: = 0 ;//
+line: 120 index: 21 original: =	mutated: = NULL; //
+line: 120 index: 63 original: =	mutated: = NULL; //
+line: 120 index: 64 original: =	mutated: = NULL; //
+line: 120 index: 21 original: =	mutated: = !
+line: 120 index: 63 original: =	mutated: = !
+line: 120 index: 64 original: =	mutated: = !
+line: 120 index: 50 original: &	mutated: |
+line: 120 index: 51 original: &	mutated: |
+line: 120 index: 50 original: &	mutated: ^
+line: 120 index: 51 original: &	mutated: ^
+line: 120 index: 50 original: &	mutated: &&
+line: 120 index: 51 original: &	mutated: &&
+line: 120 index: 50 original: &	mutated: ||
+line: 120 index: 51 original: &	mutated: ||
+line: 120 index: 50 original: &&	mutated: &
+line: 120 index: 50 original: &&	mutated: ||
+line: 120 index: 50 original: &&	mutated: && !
+line: 122 index: 12 original: =	mutated: ==
+line: 122 index: 12 original: =	mutated: !=
+line: 122 index: 12 original: =	mutated: <
+line: 122 index: 12 original: =	mutated: >
+line: 122 index: 12 original: =	mutated: <=
+line: 122 index: 12 original: =	mutated: >=
+line: 122 index: 12 original: =	mutated: = 0 *
+line: 122 index: 12 original: =	mutated: = 0 ;//
+line: 122 index: 12 original: =	mutated: = NULL; //
+line: 122 index: 12 original: =	mutated: = !
+line: 124 index: 16 original: &	mutated: |
+line: 124 index: 17 original: &	mutated: |
+line: 124 index: 35 original: &	mutated: |
+line: 124 index: 36 original: &	mutated: |
+line: 124 index: 16 original: &	mutated: ^
+line: 124 index: 17 original: &	mutated: ^
+line: 124 index: 35 original: &	mutated: ^
+line: 124 index: 36 original: &	mutated: ^
+line: 124 index: 16 original: &	mutated: &&
+line: 124 index: 17 original: &	mutated: &&
+line: 124 index: 35 original: &	mutated: &&
+line: 124 index: 36 original: &	mutated: &&
+line: 124 index: 16 original: &	mutated: ||
+line: 124 index: 17 original: &	mutated: ||
+line: 124 index: 35 original: &	mutated: ||
+line: 124 index: 36 original: &	mutated: ||
+line: 124 index: 56 original: |	mutated: &
+line: 124 index: 57 original: |	mutated: &
+line: 124 index: 56 original: |	mutated: ^
+line: 124 index: 57 original: |	mutated: ^
+line: 124 index: 56 original: |	mutated: &&
+line: 124 index: 57 original: |	mutated: &&
+line: 124 index: 56 original: |	mutated: ||
+line: 124 index: 57 original: |	mutated: ||
+line: 124 index: 59 original: !	mutated: ~
+line: 124 index: 59 original: !	mutated: 
+line: 124 index: 16 original: &&	mutated: &
+line: 124 index: 35 original: &&	mutated: &
+line: 124 index: 16 original: &&	mutated: ||
+line: 124 index: 35 original: &&	mutated: ||
+line: 124 index: 16 original: &&	mutated: && !
+line: 124 index: 35 original: &&	mutated: && !
+line: 124 index: 56 original: ||	mutated: |
+line: 124 index: 56 original: ||	mutated: &&
+line: 124 index: 56 original: ||	mutated: || !
+line: 124 index: 4 original: if (	mutated: if ( !
+line: 124 index: 4 original: if (	mutated: if ( ~
+line: 124 index: 4 original: if (	mutated: if ( true ||
+line: 124 index: 4 original: if (	mutated: if ( false &&
+line: 124 index: 7 original: (	mutated: (!
+line: 124 index: 19 original: (	mutated: (!
+line: 124 index: 20 original: (	mutated: (!
+line: 126 index: 16 original: =	mutated: ==
+line: 126 index: 16 original: =	mutated: !=
+line: 126 index: 16 original: =	mutated: <
+line: 126 index: 16 original: =	mutated: >
+line: 126 index: 16 original: =	mutated: <=
+line: 126 index: 16 original: =	mutated: >=
+line: 126 index: 16 original: =	mutated: = 0 *
+line: 126 index: 16 original: =	mutated: = 0 ;//
+line: 126 index: 16 original: =	mutated: = NULL; //
+line: 126 index: 16 original: =	mutated: = !
+line: 126 index: 46 original: &	mutated: |
+line: 126 index: 47 original: &	mutated: |
+line: 126 index: 46 original: &	mutated: ^
+line: 126 index: 47 original: &	mutated: ^
+line: 126 index: 46 original: &	mutated: &&
+line: 126 index: 47 original: &	mutated: &&
+line: 126 index: 46 original: &	mutated: ||
+line: 126 index: 47 original: &	mutated: ||
+line: 126 index: 46 original: &&	mutated: &
+line: 126 index: 46 original: &&	mutated: ||
+line: 126 index: 46 original: &&	mutated: && !
+line: 126 index: 43 original: (	mutated: (!
+line: 126 index: 65 original: (	mutated: (!
+line: 126 index: 66 original: );	mutated: *0);
+line: 126 index: 66 original: );	mutated: *-1);
+line: 126 index: 66 original: );	mutated: *2);
+line: 127 index: 18 original: =	mutated: ==
+line: 127 index: 18 original: =	mutated: !=
+line: 127 index: 18 original: =	mutated: <
+line: 127 index: 18 original: =	mutated: >
+line: 127 index: 18 original: =	mutated: <=
+line: 127 index: 18 original: =	mutated: >=
+line: 127 index: 18 original: =	mutated: = 0 *
+line: 127 index: 18 original: =	mutated: = 0 ;//
+line: 127 index: 18 original: =	mutated: = NULL; //
+line: 127 index: 18 original: =	mutated: = !
+line: 127 index: 50 original: &	mutated: |
+line: 127 index: 51 original: &	mutated: |
+line: 127 index: 50 original: &	mutated: ^
+line: 127 index: 51 original: &	mutated: ^
+line: 127 index: 50 original: &	mutated: &&
+line: 127 index: 51 original: &	mutated: &&
+line: 127 index: 50 original: &	mutated: ||
+line: 127 index: 51 original: &	mutated: ||
+line: 127 index: 50 original: &&	mutated: &
+line: 127 index: 50 original: &&	mutated: ||
+line: 127 index: 50 original: &&	mutated: && !
+line: 127 index: 47 original: (	mutated: (!
+line: 127 index: 69 original: (	mutated: (!
+line: 127 index: 70 original: );	mutated: *0);
+line: 127 index: 70 original: );	mutated: *-1);
+line: 127 index: 70 original: );	mutated: *2);
+line: 128 index: 20 original: &	mutated: |
+line: 128 index: 21 original: &	mutated: |
+line: 128 index: 20 original: &	mutated: ^
+line: 128 index: 21 original: &	mutated: ^
+line: 128 index: 20 original: &	mutated: &&
+line: 128 index: 21 original: &	mutated: &&
+line: 128 index: 20 original: &	mutated: ||
+line: 128 index: 21 original: &	mutated: ||
+line: 128 index: 20 original: &&	mutated: &
+line: 128 index: 20 original: &&	mutated: ||
+line: 128 index: 20 original: &&	mutated: && !
+line: 128 index: 1 original: if (	mutated: if ( !
+line: 128 index: 1 original: if (	mutated: if ( ~
+line: 128 index: 1 original: if (	mutated: if ( true ||
+line: 128 index: 1 original: if (	mutated: if ( false &&
+line: 128 index: 4 original: (	mutated: (!
+line: 129 index: 9 original: *	mutated: +
+line: 129 index: 9 original: *	mutated: -
+line: 129 index: 9 original: *	mutated: /
+line: 129 index: 9 original: *	mutated: %
+line: 129 index: 8 original: /	mutated: %
+line: 129 index: 8 original: /	mutated: *
+line: 129 index: 8 original: /	mutated: +
+line: 129 index: 8 original: /	mutated: -
+line: 130 index: 59 original: <	mutated: !=
+line: 130 index: 59 original: <	mutated: >
+line: 130 index: 59 original: <	mutated: <=
+line: 130 index: 59 original: <	mutated: >=
+line: 130 index: 59 original: <	mutated: ==
+line: 130 index: 27 original: -	mutated: +
+line: 130 index: 27 original: -	mutated: *
+line: 130 index: 27 original: -	mutated: /
+line: 130 index: 27 original: -	mutated: %
+line: 130 index: 22 original: true	mutated: false
+line: 131 index: 33 original: <	mutated: !=
+line: 131 index: 33 original: <	mutated: >
+line: 131 index: 33 original: <	mutated: <=
+line: 131 index: 33 original: <	mutated: >=
+line: 131 index: 33 original: <	mutated: ==
+line: 131 index: 73 original: *	mutated: +
+line: 131 index: 73 original: *	mutated: -
+line: 131 index: 73 original: *	mutated: /
+line: 131 index: 73 original: *	mutated: %
+line: 131 index: 74 original: /	mutated: %
+line: 131 index: 74 original: /	mutated: *
+line: 131 index: 74 original: /	mutated: +
+line: 131 index: 74 original: /	mutated: -
+line: 132 index: 13 original: =	mutated: ==
+line: 132 index: 13 original: =	mutated: !=
+line: 132 index: 13 original: =	mutated: <
+line: 132 index: 13 original: =	mutated: >
+line: 132 index: 13 original: =	mutated: <=
+line: 132 index: 13 original: =	mutated: >=
+line: 132 index: 13 original: =	mutated: = 0 *
+line: 132 index: 13 original: =	mutated: = 0 ;//
+line: 132 index: 13 original: =	mutated: = NULL; //
+line: 132 index: 13 original: =	mutated: = !
+line: 133 index: 6 original: if (	mutated: if ( !
+line: 133 index: 6 original: if (	mutated: if ( ~
+line: 133 index: 6 original: if (	mutated: if ( true ||
+line: 133 index: 6 original: if (	mutated: if ( false &&
+line: 133 index: 9 original: (	mutated: (!
+line: 134 index: 13 original: =	mutated: ==
+line: 134 index: 13 original: =	mutated: !=
+line: 134 index: 13 original: =	mutated: <
+line: 134 index: 13 original: =	mutated: >
+line: 134 index: 13 original: =	mutated: <=
+line: 134 index: 13 original: =	mutated: >=
+line: 134 index: 13 original: =	mutated: = 0 *
+line: 134 index: 13 original: =	mutated: = 0 ;//
+line: 134 index: 13 original: =	mutated: = NULL; //
+line: 134 index: 13 original: =	mutated: = !
+line: 135 index: 6 original: if (	mutated: if ( !
+line: 135 index: 6 original: if (	mutated: if ( ~
+line: 135 index: 6 original: if (	mutated: if ( true ||
+line: 135 index: 6 original: if (	mutated: if ( false &&
+line: 135 index: 9 original: (	mutated: (!
+line: 136 index: 13 original: =	mutated: ==
+line: 136 index: 13 original: =	mutated: !=
+line: 136 index: 13 original: =	mutated: <
+line: 136 index: 13 original: =	mutated: >
+line: 136 index: 13 original: =	mutated: <=
+line: 136 index: 13 original: =	mutated: >=
+line: 136 index: 13 original: =	mutated: = 0 *
+line: 136 index: 13 original: =	mutated: = 0 ;//
+line: 136 index: 13 original: =	mutated: = NULL; //
+line: 136 index: 13 original: =	mutated: = !
+line: 138 index: 13 original: =	mutated: ==
+line: 138 index: 13 original: =	mutated: !=
+line: 138 index: 13 original: =	mutated: <
+line: 138 index: 13 original: =	mutated: >
+line: 138 index: 13 original: =	mutated: <=
+line: 138 index: 13 original: =	mutated: >=
+line: 138 index: 13 original: =	mutated: = 0 *
+line: 138 index: 13 original: =	mutated: = 0 ;//
+line: 138 index: 13 original: =	mutated: = NULL; //
+line: 138 index: 13 original: =	mutated: = !
+line: 141 index: 4 original: return	mutated: return 0; //
+line: 141 index: 4 original: return	mutated: return 1; //
+line: 141 index: 4 original: return	mutated: return NULL; //
+line: 141 index: 4 original: return	mutated: return -1; //
+line: 141 index: 4 original: return	mutated: return 2*
+line: 141 index: 4 original: return	mutated: return -1 *
+line: 144 index: 4 original: (	mutated: (!
+line: 145 index: 0 original: int 	mutated: short int 
+line: 145 index: 0 original: int 	mutated: char 
+line: 146 index: 5 original: *	mutated: +
+line: 146 index: 5 original: *	mutated: -
+line: 146 index: 5 original: *	mutated: /
+line: 146 index: 5 original: *	mutated: %
+line: 146 index: 10 original: [	mutated: [ -1 +
+line: 146 index: 10 original: [	mutated: [ 1 +
+line: 146 index: 10 original: [	mutated: [ 0 *
+line: 148 index: 12 original: <	mutated: !=
+line: 148 index: 12 original: <	mutated: >
+line: 148 index: 12 original: <	mutated: <=
+line: 148 index: 12 original: <	mutated: >=
+line: 148 index: 12 original: <	mutated: ==
+line: 148 index: 6 original: (	mutated: (!
+line: 150 index: 8 original: (	mutated: (!
+line: 150 index: 54 original: );	mutated: *0);
+line: 150 index: 54 original: );	mutated: *-1);
+line: 150 index: 54 original: );	mutated: *2);
+line: 151 index: 8 original: (	mutated: (!
+line: 151 index: 82 original: );	mutated: *0);
+line: 151 index: 82 original: );	mutated: *-1);
+line: 151 index: 82 original: );	mutated: *2);
+line: 152 index: 8 original: (	mutated: (!
+line: 152 index: 77 original: );	mutated: *0);
+line: 152 index: 77 original: );	mutated: *-1);
+line: 152 index: 77 original: );	mutated: *2);
+line: 153 index: 8 original: (	mutated: (!
+line: 153 index: 68 original: );	mutated: *0);
+line: 153 index: 68 original: );	mutated: *-1);
+line: 153 index: 68 original: );	mutated: *2);
+line: 154 index: 8 original: (	mutated: (!
+line: 154 index: 63 original: );	mutated: *0);
+line: 154 index: 63 original: );	mutated: *-1);
+line: 154 index: 63 original: );	mutated: *2);
+line: 155 index: 5 original: (	mutated: (!
+line: 155 index: 7 original: );	mutated: *0);
+line: 155 index: 7 original: );	mutated: *-1);
+line: 155 index: 7 original: );	mutated: *2);
+line: 157 index: 14 original: (	mutated: (!
+line: 157 index: 15 original: );	mutated: *0);
+line: 157 index: 15 original: );	mutated: *-1);
+line: 157 index: 15 original: );	mutated: *2);
+line: 158 index: 21 original: =	mutated: ==
+line: 158 index: 21 original: =	mutated: !=
+line: 158 index: 21 original: =	mutated: <
+line: 158 index: 21 original: =	mutated: >
+line: 158 index: 21 original: =	mutated: <=
+line: 158 index: 21 original: =	mutated: >=
+line: 158 index: 21 original: =	mutated: = 0 *
+line: 158 index: 21 original: =	mutated: = 0 ;//
+line: 158 index: 21 original: =	mutated: = NULL; //
+line: 158 index: 21 original: =	mutated: = !
+line: 158 index: 32 original: [	mutated: [ -1 +
+line: 158 index: 32 original: [	mutated: [ 1 +
+line: 158 index: 32 original: [	mutated: [ 0 *
+line: 158 index: 27 original: (	mutated: (!
+line: 158 index: 35 original: );	mutated: *0);
+line: 158 index: 35 original: );	mutated: *-1);
+line: 158 index: 35 original: );	mutated: *2);
+line: 159 index: 20 original: =	mutated: ==
+line: 159 index: 20 original: =	mutated: !=
+line: 159 index: 20 original: =	mutated: <
+line: 159 index: 20 original: =	mutated: >
+line: 159 index: 20 original: =	mutated: <=
+line: 159 index: 20 original: =	mutated: >=
+line: 159 index: 20 original: =	mutated: = 0 *
+line: 159 index: 20 original: =	mutated: = 0 ;//
+line: 159 index: 20 original: =	mutated: = NULL; //
+line: 159 index: 20 original: =	mutated: = !
+line: 159 index: 31 original: [	mutated: [ -1 +
+line: 159 index: 31 original: [	mutated: [ 1 +
+line: 159 index: 31 original: [	mutated: [ 0 *
+line: 159 index: 26 original: (	mutated: (!
+line: 159 index: 34 original: );	mutated: *0);
+line: 159 index: 34 original: );	mutated: *-1);
+line: 159 index: 34 original: );	mutated: *2);
+line: 160 index: 31 original: =	mutated: ==
+line: 160 index: 31 original: =	mutated: !=
+line: 160 index: 31 original: =	mutated: <
+line: 160 index: 31 original: =	mutated: >
+line: 160 index: 31 original: =	mutated: <=
+line: 160 index: 31 original: =	mutated: >=
+line: 160 index: 31 original: =	mutated: = 0 *
+line: 160 index: 31 original: =	mutated: = 0 ;//
+line: 160 index: 31 original: =	mutated: = NULL; //
+line: 160 index: 31 original: =	mutated: = !
+line: 160 index: 42 original: [	mutated: [ -1 +
+line: 160 index: 42 original: [	mutated: [ 1 +
+line: 160 index: 42 original: [	mutated: [ 0 *
+line: 160 index: 37 original: (	mutated: (!
+line: 160 index: 45 original: );	mutated: *0);
+line: 160 index: 45 original: );	mutated: *-1);
+line: 160 index: 45 original: );	mutated: *2);
+line: 161 index: 20 original: =	mutated: ==
+line: 161 index: 20 original: =	mutated: !=
+line: 161 index: 20 original: =	mutated: <
+line: 161 index: 20 original: =	mutated: >
+line: 161 index: 20 original: =	mutated: <=
+line: 161 index: 20 original: =	mutated: >=
+line: 161 index: 20 original: =	mutated: = 0 *
+line: 161 index: 20 original: =	mutated: = 0 ;//
+line: 161 index: 20 original: =	mutated: = NULL; //
+line: 161 index: 20 original: =	mutated: = !
+line: 161 index: 31 original: [	mutated: [ -1 +
+line: 161 index: 31 original: [	mutated: [ 1 +
+line: 161 index: 31 original: [	mutated: [ 0 *
+line: 161 index: 26 original: (	mutated: (!
+line: 161 index: 34 original: );	mutated: *0);
+line: 161 index: 34 original: );	mutated: *-1);
+line: 161 index: 34 original: );	mutated: *2);
+line: 162 index: 25 original: =	mutated: ==
+line: 162 index: 25 original: =	mutated: !=
+line: 162 index: 25 original: =	mutated: <
+line: 162 index: 25 original: =	mutated: >
+line: 162 index: 25 original: =	mutated: <=
+line: 162 index: 25 original: =	mutated: >=
+line: 162 index: 25 original: =	mutated: = 0 *
+line: 162 index: 25 original: =	mutated: = 0 ;//
+line: 162 index: 25 original: =	mutated: = NULL; //
+line: 162 index: 25 original: =	mutated: = !
+line: 162 index: 36 original: [	mutated: [ -1 +
+line: 162 index: 36 original: [	mutated: [ 1 +
+line: 162 index: 36 original: [	mutated: [ 0 *
+line: 162 index: 31 original: (	mutated: (!
+line: 162 index: 39 original: );	mutated: *0);
+line: 162 index: 39 original: );	mutated: *-1);
+line: 162 index: 39 original: );	mutated: *2);
+line: 163 index: 22 original: =	mutated: ==
+line: 163 index: 22 original: =	mutated: !=
+line: 163 index: 22 original: =	mutated: <
+line: 163 index: 22 original: =	mutated: >
+line: 163 index: 22 original: =	mutated: <=
+line: 163 index: 22 original: =	mutated: >=
+line: 163 index: 22 original: =	mutated: = 0 *
+line: 163 index: 22 original: =	mutated: = 0 ;//
+line: 163 index: 22 original: =	mutated: = NULL; //
+line: 163 index: 22 original: =	mutated: = !
+line: 163 index: 33 original: [	mutated: [ -1 +
+line: 163 index: 33 original: [	mutated: [ 1 +
+line: 163 index: 33 original: [	mutated: [ 0 *
+line: 163 index: 28 original: (	mutated: (!
+line: 163 index: 36 original: );	mutated: *0);
+line: 163 index: 36 original: );	mutated: *-1);
+line: 163 index: 36 original: );	mutated: *2);
+line: 164 index: 20 original: =	mutated: ==
+line: 164 index: 20 original: =	mutated: !=
+line: 164 index: 20 original: =	mutated: <
+line: 164 index: 20 original: =	mutated: >
+line: 164 index: 20 original: =	mutated: <=
+line: 164 index: 20 original: =	mutated: >=
+line: 164 index: 20 original: =	mutated: = 0 *
+line: 164 index: 20 original: =	mutated: = 0 ;//
+line: 164 index: 20 original: =	mutated: = NULL; //
+line: 164 index: 20 original: =	mutated: = !
+line: 164 index: 31 original: [	mutated: [ -1 +
+line: 164 index: 31 original: [	mutated: [ 1 +
+line: 164 index: 31 original: [	mutated: [ 0 *
+line: 164 index: 26 original: (	mutated: (!
+line: 164 index: 34 original: );	mutated: *0);
+line: 164 index: 34 original: );	mutated: *-1);
+line: 164 index: 34 original: );	mutated: *2);
+line: 165 index: 18 original: =	mutated: ==
+line: 165 index: 18 original: =	mutated: !=
+line: 165 index: 18 original: =	mutated: <
+line: 165 index: 18 original: =	mutated: >
+line: 165 index: 18 original: =	mutated: <=
+line: 165 index: 18 original: =	mutated: >=
+line: 165 index: 18 original: =	mutated: = 0 *
+line: 165 index: 18 original: =	mutated: = 0 ;//
+line: 165 index: 18 original: =	mutated: = NULL; //
+line: 165 index: 18 original: =	mutated: = !
+line: 165 index: 29 original: [	mutated: [ -1 +
+line: 165 index: 29 original: [	mutated: [ 1 +
+line: 165 index: 29 original: [	mutated: [ 0 *
+line: 165 index: 24 original: (	mutated: (!
+line: 165 index: 32 original: );	mutated: *0);
+line: 165 index: 32 original: );	mutated: *-1);
+line: 165 index: 32 original: );	mutated: *2);
+line: 166 index: 20 original: =	mutated: ==
+line: 166 index: 20 original: =	mutated: !=
+line: 166 index: 20 original: =	mutated: <
+line: 166 index: 20 original: =	mutated: >
+line: 166 index: 20 original: =	mutated: <=
+line: 166 index: 20 original: =	mutated: >=
+line: 166 index: 20 original: =	mutated: = 0 *
+line: 166 index: 20 original: =	mutated: = 0 ;//
+line: 166 index: 20 original: =	mutated: = NULL; //
+line: 166 index: 20 original: =	mutated: = !
+line: 166 index: 31 original: [	mutated: [ -1 +
+line: 166 index: 31 original: [	mutated: [ 1 +
+line: 166 index: 31 original: [	mutated: [ 0 *
+line: 166 index: 26 original: (	mutated: (!
+line: 166 index: 34 original: );	mutated: *0);
+line: 166 index: 34 original: );	mutated: *-1);
+line: 166 index: 34 original: );	mutated: *2);
+line: 167 index: 14 original: =	mutated: ==
+line: 167 index: 14 original: =	mutated: !=
+line: 167 index: 14 original: =	mutated: <
+line: 167 index: 14 original: =	mutated: >
+line: 167 index: 14 original: =	mutated: <=
+line: 167 index: 14 original: =	mutated: >=
+line: 167 index: 14 original: =	mutated: = 0 *
+line: 167 index: 14 original: =	mutated: = 0 ;//
+line: 167 index: 14 original: =	mutated: = NULL; //
+line: 167 index: 14 original: =	mutated: = !
+line: 167 index: 25 original: [	mutated: [ -1 +
+line: 167 index: 25 original: [	mutated: [ 1 +
+line: 167 index: 25 original: [	mutated: [ 0 *
+line: 167 index: 20 original: (	mutated: (!
+line: 167 index: 29 original: );	mutated: *0);
+line: 167 index: 29 original: );	mutated: *-1);
+line: 167 index: 29 original: );	mutated: *2);
+line: 168 index: 21 original: =	mutated: ==
+line: 168 index: 21 original: =	mutated: !=
+line: 168 index: 21 original: =	mutated: <
+line: 168 index: 21 original: =	mutated: >
+line: 168 index: 21 original: =	mutated: <=
+line: 168 index: 21 original: =	mutated: >=
+line: 168 index: 21 original: =	mutated: = 0 *
+line: 168 index: 21 original: =	mutated: = 0 ;//
+line: 168 index: 21 original: =	mutated: = NULL; //
+line: 168 index: 21 original: =	mutated: = !
+line: 168 index: 32 original: [	mutated: [ -1 +
+line: 168 index: 32 original: [	mutated: [ 1 +
+line: 168 index: 32 original: [	mutated: [ 0 *
+line: 168 index: 27 original: (	mutated: (!
+line: 168 index: 36 original: );	mutated: *0);
+line: 168 index: 36 original: );	mutated: *-1);
+line: 168 index: 36 original: );	mutated: *2);
+line: 169 index: 18 original: =	mutated: ==
+line: 169 index: 18 original: =	mutated: !=
+line: 169 index: 18 original: =	mutated: <
+line: 169 index: 18 original: =	mutated: >
+line: 169 index: 18 original: =	mutated: <=
+line: 169 index: 18 original: =	mutated: >=
+line: 169 index: 18 original: =	mutated: = 0 *
+line: 169 index: 18 original: =	mutated: = 0 ;//
+line: 169 index: 18 original: =	mutated: = NULL; //
+line: 169 index: 18 original: =	mutated: = !
+line: 169 index: 29 original: [	mutated: [ -1 +
+line: 169 index: 29 original: [	mutated: [ 1 +
+line: 169 index: 29 original: [	mutated: [ 0 *
+line: 169 index: 24 original: (	mutated: (!
+line: 169 index: 33 original: );	mutated: *0);
+line: 169 index: 33 original: );	mutated: *-1);
+line: 169 index: 33 original: );	mutated: *2);
+line: 171 index: 21 original: %	mutated: /
+line: 171 index: 21 original: %	mutated: +
+line: 171 index: 21 original: %	mutated: -
+line: 171 index: 21 original: %	mutated: *
+line: 171 index: 11 original: (	mutated: (!
+line: 171 index: 40 original: (	mutated: (!
+line: 171 index: 42 original: );	mutated: *0);
+line: 171 index: 42 original: );	mutated: *-1);
+line: 171 index: 42 original: );	mutated: *2);
+line: 172 index: 8 original: (	mutated: (!
+line: 172 index: 10 original: );	mutated: *0);
+line: 172 index: 10 original: );	mutated: *-1);
+line: 172 index: 10 original: );	mutated: *2);

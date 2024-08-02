@@ -1,0 +1,1 @@
+Line 118:   Original: enabled = High_Confidence && (Own_Tracked_Alt_Rate <= OLEV) && (Cur_Vertical_Sep > MAXALTDIFF);    Fault: enabled = High_Confidence && (Own_Tracked_Alt_Rate <= OLEV) ;

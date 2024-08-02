@@ -1,0 +1,1 @@
+Line 120:   Original: intent_not_known = Two_of_Three_Reports_Valid && Other_RAC == NO_INTENT;   Fault: intent_not_known = Two_of_Three_Reports_Valid || Other_RAC == NO_INTENT; /* logic change */

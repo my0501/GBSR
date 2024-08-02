@@ -1,0 +1,1 @@
+Line 104:   Original: return (Own_Tracked_Alt < Other_Tracked_Alt);   Fault: return (Own_Tracked_Alt <= Other_Tracked_Alt); /* operator mutation */
