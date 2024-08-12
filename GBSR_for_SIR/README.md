@@ -89,6 +89,12 @@ This table and explanation provide a clear and concise summary of the key metric
   - We extended our analysis to 23 programs in the SIR dataset.
   - The TOP-N analysis, which measures the number of correct fault identifications within the top N ranked results, showed marked improvements with our method.
   - For instance, in TOP-1, TOP-3, and TOP-5 rankings, our approach consistently outperformed traditional MBFL.
+  - Moreover, since each version contains only 7.8 (180/23) suspicious methods, traditional techniques already perform well on the Top-5, resulting in no additional improvement.
+
+
+
+  
+  
 # Example Explanation with \path\example.jpg
 
 In this example, we analyze the code of Tacs8 and compare the results of traditional MBFL (Model-Based Fault Localization) techniques with those incorporating GBSR (Graph-Based Statistical Reasoning). We found a significant improvement in fault localization accuracy when using the combined approach. Additionally, by analyzing the TOP-N results across 23 programs from the selected SIR dataset, we observed that our method also shows substantial improvements in the SIR dataset.

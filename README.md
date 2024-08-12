@@ -11,8 +11,8 @@ Within this open-source project, we offer essential resources for experimentatio
 
 - **Data Folder**: Contains the necessary data files for conducting experiments.
 - **Code Folder**: Includes the source code implementing the GBSR strategy.
-- **Example Folder**: 
-- **GBSR_for_SIR Folder**:
+- **Example Folder**:  The effectiveness of our approach is demonstrated through an example program containing a Lang1 program with critical information and another example program that includes a complete Math19 program.
+- **GBSR_for_SIR Folder**: We also conducted further analysis on the SIR dataset, and the experimental results are presented in this folder.
 
 These resources are made available to facilitate reference and reproducibility of the experimental process. Developers can clone the repository to access the code and data required for utilizing GBSR in fault localization experiments.
 
